@@ -1,0 +1,23 @@
+2020-06-10 19:24:07,210 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-10 19:27:13,064 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.erudio:curso-rest-com-spring-udemy:0.0.1-SNAPSHOT @ C:\Users\erick\Projetos-Cursos-Udemy\CursoRestComSpringBootUdemy\Passo 1 - CursoRestComSpringBootUdemy - eclipse\pom.xml.
+2020-06-10 19:27:28,326 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 19:27:28,370 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:28,374 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:28,384 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 19:27:28,385 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:39,105 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Passo 1 - CursoRestComSpringBootUdemy - eclipse/src/main/java
+2020-06-10 19:27:39,108 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Passo 1 - CursoRestComSpringBootUdemy - eclipse/src/main/resources
+2020-06-10 19:27:39,108 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Passo 1 - CursoRestComSpringBootUdemy - eclipse/src/main/resources
+2020-06-10 19:27:39,109 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Passo 1 - CursoRestComSpringBootUdemy - eclipse/src/test/java
+2020-06-10 19:27:39,109 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Passo 1 - CursoRestComSpringBootUdemy - eclipse/src/test/resources
+2020-06-10 19:27:47,340 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 19:27:47,364 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:47,367 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:47,371 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 19:27:47,373 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:47,893 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 66 sec
+2020-06-10 19:27:49,257 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 19:27:49,258 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:49,258 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-10 19:27:49,262 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-10 19:27:49,263 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
